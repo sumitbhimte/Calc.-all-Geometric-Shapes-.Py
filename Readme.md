@@ -4,8 +4,8 @@ The system used here helps the user to calculate all Geometric Shapes like
 2. Perimeter
 3. Diagonal
 
-|BUild|[![Contribution Check - Git Inspector](https://github.com/sumitbhimte/PythonProject/actions/workflows/gitIspector.yml/badge.svg)](https://github.com/sumitbhimte/PythonProject/actions/workflows/gitIspector.yml)
-|
+  Build   -->  [![Contribution Check - Git Inspector](https://github.com/sumitbhimte/PythonProject/actions/workflows/gitIspector.yml/badge.svg)](https://github.com/sumitbhimte/PythonProject/actions/workflows/gitIspector.yml)
+
 
 
 * Python program should use
