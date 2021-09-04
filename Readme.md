@@ -23,7 +23,7 @@ by using OPPs concept and all python basic and advanced tools
 
 ## Project Demonstration
 
-![Project Demo](5_Images_Videos/OutputVideo.gif)
+![Project Demo](https://github.com/sumitbhimte/PythonProject/blob/main/5_Images_Videos/OptputVideo.gif)
 
 <br>
 
