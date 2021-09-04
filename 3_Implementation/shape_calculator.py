@@ -1,6 +1,12 @@
+"""
+class Implementation and used OPPS concept
+"""
 from math import tan, pi
 
 class Rectangle:
+    """
+    Class Rectangle
+    """
     def __init__(self, width: float, height: float):
         self.height = height
         self.width = width
@@ -27,6 +33,9 @@ class Rectangle:
 
 
 class Square(Rectangle):
+    """
+    Class Square inherited from Rectangle
+    """
     def __init__(self, side: float):
         self.side = side
         super().__init__(side, side)
@@ -38,20 +47,26 @@ class Square(Rectangle):
         self.set_height = side
 
 
-class parallelogram(Rectangle):
+class Parallelogram(Rectangle):
+    """
+    Class Parallelogram ingerited from Rectangle
+    """
     def __init__(self, base: float, height: float):
         super().__init__(base,height )
         self.base = base
         self.height = height
 
-    def set_param(self, base: float,  height: float):
+    def set_param(self, base: float, height: float):
         """set side length of the square"""
         self.set_width = base
         self.set_height = height
 
 
-class reg_polygon(Rectangle):
-    def __init__(self,n_sides: float,n_length: float):
+class RegPolygon(Rectangle):
+    """
+    Class reg Polygon Inherited fromo Rectangle
+    """
+    def __init__(self, n_sides: float, n_length: float):
         self.n_sides = n_sides
         self.n_length = n_length
 
@@ -60,4 +75,3 @@ class reg_polygon(Rectangle):
 
     def get_perimeter(self):
         return self.n_sides*self.n_length
-
