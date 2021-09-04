@@ -31,11 +31,12 @@ With the available software infrastructure the system can be implemented
 
 ## HIGH LEVEL REQUIREMENTS
 
-|SrNo|Requirement|Description|Status|
-|---|--|--|--|--|
-|H_01|Circle |User able to calculate Area and Perimeter |Implemented|
-|H_02|Square,Rectangle,Parellalogram|User able to calculate Area Perimeter and Diagonal |Implemented|
-|H_03|Triangle|Able to cal area by giving all sides or height and base|Implemented|
+
+|SrNo|Requirement|Requirement Description|Status|
+|---|--|--|--|
+|L_01|Circle|User able to calculate Area and Perimeter|Implemented|
+|L_02|Square,Rectangle,Parellalogram|User able to calculate Area Perimeter and Diagonal|Implemented|
+|L_03|Triangle|Able to cal area by giving all sides or height and base |Implemented|
 
 
 <br>
@@ -44,6 +45,6 @@ With the available software infrastructure the system can be implemented
 |SrNo|Requirement|Requirement Description|Status|
 |---|--|--|--|
 |L_01|Circle|User should give radius|Implemented|
-|_02|Square,Rectangle,Parellalogram|User should give all sides as input|Implemented|
+|L_02|Square,Rectangle,Parellalogram|User should give all sides as input|Implemented|
 |L_03|Triangle|User should give Height and Base |Implemented|
 
