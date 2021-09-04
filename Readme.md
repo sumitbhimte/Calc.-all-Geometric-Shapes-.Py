@@ -15,12 +15,11 @@ The system used here helps the user to calculate all Geometric Shapes like
 - Calculated all Shapes area and perimeter
 
 ## Pylint Screenshots
-  ![](https://github.com/PythonProject/5_Images_Videos/implementation.png)
-  ![](https://github.com/PythonProject/5_Images_Videos/implementation1.png)
-  ![](https://github.com/PythonProject/5_Images_Videos/test_circle.png)
-  ![](https://github.com/PythonProject/5_Images_Videos/test_shape_calculator.png)
-  ![](https://github.com/PythonProject/5_Images_Videos/test_triangle.png)
-
+  ![](https://github.com/sumitbhimte/PythonProject/blob/main/5_Images_Videos/implementation.png)
+  ![](https://github.com/sumitbhimte/PythonProject/blob/main/5_Images_Videos/implementation1.png)
+  ![](https://github.com/sumitbhimte/PythonProject/blob/main/5_Images_Videos/test_circle.png)
+  ![](https://github.com/sumitbhimte/PythonProject/blob/main/5_Images_Videos/test_shape_calculator.png)
+  ![](https://github.com/sumitbhimte/PythonProject/blob/main/5_Images_Videos/test_triangle.png)
 
 
 
